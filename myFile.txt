@@ -3,4 +3,4 @@ Class: B4CC
 University: Binus University International
 Age: 21
 
-Whats up
+Whats up, jason
